@@ -97,6 +97,7 @@ h1, h2, h3, h4, p {
 #gift-img-cheers:hover {
     background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc4aXd3dTkwMjhlOGJ1YnV0Zzh6ZnAxanRmeHViZDFnODIzOTVkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOwFVhfA4DUWIJJQs/giphy.gif");
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #footer {
